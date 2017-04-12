@@ -23,6 +23,7 @@
 		"MarkdownLight",
 		"Open-Include",
 		"Package Control",
+		"remote-images-preview",
 		"SideBarEnhancements",
 		"StandardFormat",
 		"SublimeLinter",
@@ -35,5 +36,9 @@
 		"Tomorrow Color Schemes",
 		"Unicode Character Highlighter",
 		"WhoCalled Function Finder"
+	],
+	"repositories":
+	[
+		"https://github.com/royneau/remote-images-preview"
 	]
 }
