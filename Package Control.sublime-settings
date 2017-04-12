@@ -39,6 +39,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/royneau/remote-images-preview"
+		"https://github.com/royneau/remote-images-preview",
+		"https://github.com/titoBouzout/Open-Include"
 	]
 }
