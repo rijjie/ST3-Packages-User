@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Clickable URLs",
+		"Color Highlighter",
+		"CSScomb",
+		"Csslisible",
+		"Emmet",
+		"FindKeyConflicts",
+		"GitGutter",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"jQuery",
+		"JsFormat",
+		"MarkdownLight",
+		"Open-Include",
+		"Package Control",
+		"SideBarEnhancements",
+		"StandardFormat",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"Sublimerge 3",
+		"Tomorrow Color Schemes",
+		"Unicode Character Highlighter",
+		"WhoCalled Function Finder"
+	]
+}
