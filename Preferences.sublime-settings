@@ -11,6 +11,7 @@
 	"ignored_packages":
 	[
 		"Clojure",
+		"HTML-CSS-JS Prettify",
 		"Jade",
 		"Predawn",
 		"SideBarEnhancements",
