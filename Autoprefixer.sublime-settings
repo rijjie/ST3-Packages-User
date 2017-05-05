@@ -1,5 +1,5 @@
 ﻿{
-  "browsers": ["last 5 versions", "Firefox >= 24.1.1", "ie >= 7"],
+  "browsers": ["last 10 versions", "Firefox >= 24.1.1", "ie >= 7"],
   "cascade": true,
   "remove": true,
   "prefixOnSave": false
