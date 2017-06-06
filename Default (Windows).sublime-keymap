@@ -23,4 +23,6 @@
         "keys": ["ctrl+alt+shift+f"], "command": "js_format",
         "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
     },
+    { "keys": ["ctrl+alt+super+f"], "command": "fold" },
+    { "keys": ["ctrl+alt+super+u"], "command": "unfold" },
 ]
